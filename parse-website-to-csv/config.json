@@ -1,0 +1,13 @@
+{
+	"content": {
+		"url": "https://wooordhunt.ru/word"
+	},
+	"output-file": {
+		"name": "output.txt",
+		"path": "./"
+	},
+	"input-file": {
+		"name": "input.txt",
+		"path": "./"
+	}
+}

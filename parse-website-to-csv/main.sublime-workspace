@@ -1,0 +1,332 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"APP",
+				"AppHolder"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"REa",
+				"React"
+			],
+			[
+				"pr",
+				"promise"
+			],
+			[
+				"pro",
+				"promises"
+			],
+			[
+				"ta",
+				"target"
+			],
+			[
+				"pa",
+				"pages"
+			],
+			[
+				"ope",
+				"openPages"
+			],
+			[
+				"bro",
+				"browser"
+			],
+			[
+				"cons",
+				"constructor"
+			],
+			[
+				"kye",
+				"keyboard"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"prett",
+				"JsPrettier: Format Code"
+			],
+			[
+				"for",
+				"LSP: Format File"
+			],
+			[
+				"fore",
+				"JsPrettier: Format Code"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"INSTA",
+				"Package Control: Install Package"
+			],
+			[
+				"REMOV",
+				"Package Control: Remove Package"
+			],
+			[
+				"ty",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"type",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"typesc",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"typ",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Install Package Control"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 413.0,
+		"history":
+		[
+			"ls",
+			"node index.js"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/art/Documents/projects/parse-website-to-csv/main.py",
+		"/home/art/Документы/super-checkers/src/components/app-holder/index.ts",
+		"/home/art/Документы/super-checkers/package.json",
+		"/home/art/Документы/super-checkers/src/index.tsx",
+		"/home/art/Документы/super-checkers/src/App.tsx",
+		"/home/art/Документы/super-checkers/src/components/app-holder/app-holder.tsx",
+		"/home/art/Документы/super-checkers/src/types/types.ts",
+		"/home/art/.config/sublime-text/Packages/JsPrettier/messages/install.txt",
+		"/home/art/Документы/super-checkers/package-lock.json",
+		"/home/art/Документы/super-checkers/tsconfig.json",
+		"/home/art/Документы/super-checkers/src/components/playing-field/style.css",
+		"/home/art/Документы/super-checkers/src/index.css",
+		"/home/art/Документы/super-checkers/src/components/app-holder/style.css",
+		"/home/art/Документы/super-checkers/src/types/index.ts",
+		"/home/art/Документы/super-checkers/src/components/playing-field/playing-field.tsx",
+		"/home/art/Документы/super-checkers/src/index.ts",
+		"/home/art/.config/sublime-text/Packages/User/Default (Linux).sublime-keymap",
+		"/home/art/.config/sublime-text/Packages/Terminal/Default (Linux).sublime-keymap",
+		"/home/art/.config/sublime-text/Packages/Terminus/Default.sublime-keymap",
+		"/home/art/Документы/super-checkers/src/components/playing-field/playing-field.ts",
+		"/home/art/Документы/super-checkers/.prettierrc",
+		"/home/art/Документы/super-checkers/src/components/playing-field/playing-field.css",
+		"/home/art/Документы/super-checkers/src/components/playing-field/playing-field.js",
+		"/home/art/Документы/super-checkers/src/components/playing-field/index.js",
+		"/home/art/Документы/super-checkers/ci.yml",
+		"/home/art/Документы/super-checkers/.eslintrc.js",
+		"/home/art/Документы/inputer/node_modules/puppeteer/lib/types.d.ts",
+		"/home/art/Документы/inputer/.editorconfig",
+		"/home/art/Документы/inputer/config/default.json",
+		"/home/art/Документы/Vk-to-telegram-transfer-bot/_Bot_start.bat",
+		"/home/art/Документы/Vk-to-telegram-transfer-bot/config.py",
+		"/home/art/Документы/inputer/package-lock.json",
+		"/home/art/Документы/inputer/node_modules/node-fetch/lib/index.es.js",
+		"/home/art/Документы/inputer/node_modules/@types/node/child_process.d.ts",
+		"/home/art/Документы/inputer/index.js",
+		"/home/art/.config/sublime-text/Packages/Terminal/Terminal.sublime-settings"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.diagnostics":
+	{
+		"height": 267.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "main.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"app-",
+				"src/components/app-holder/app-holder.tsx"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 56.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 384.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
