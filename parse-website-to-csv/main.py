@@ -28,11 +28,6 @@ def create_title(text, page):
 	h3.append(text)
 	return h3
 
-# def get_examples_from_page(page):
-
-# 	print(create_title("phrases", page))
-# 	return get_phrases_from_page(page)
-
 def get_examples_from_page(page):
 	li = [
 		create_title("phrases", page),
@@ -41,14 +36,6 @@ def get_examples_from_page(page):
 		get_sentences_from_page(page),
 	]
 	return ''.join([str(i) for i in li])
-
-# def get_content(page):
-# 	return {	
-# 		"word": get_word_from_page(page),
-# 		"translation": get_translation_from_page(page),
-# 		"transcription": get_transcription_from_page(page),
-# 		"examples": get_examples_from_page(page)
-# 	}
 
 def get_content(page):
 	return [
