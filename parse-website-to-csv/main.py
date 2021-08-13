@@ -13,7 +13,8 @@ def get_translation_from_page(page):
 	return page.select("div.t_inline_en")[0]
 
 def get_transcription_from_page(page):
-	return page.select("span.transcription")[0]
+	html_content = page.select("span.transcription")[0]
+	return html_content.contents[0].replace('|', '').strip()
 
 def get_phrases_from_page(page):
 	li = page.select("div.block.phrases")[0]
