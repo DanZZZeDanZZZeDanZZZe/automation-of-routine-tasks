@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 CONFIG_PATH = './config.json'
 
 def get_word_from_page(page):
-	return page.select("h1")[0].contents[0]
+	return page.select("h1")[0].contents[0].lower()
 
 def get_translation_from_page(page):
 	return page.select("div.t_inline_en")[0]
