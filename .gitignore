@@ -1,4 +1,6 @@
-lib[64]/
+lib/
+lib64
+bin/
 
 #parse-website-to-csv
 
